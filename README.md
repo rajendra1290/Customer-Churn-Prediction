@@ -1,19 +1,19 @@
-🧠 Customer Churn Prediction
+<h1><b>Customer Churn Prediction</b></h1>
 
 Customer churn prediction helps businesses identify customers who are likely to discontinue using their service. This project uses various machine learning algorithms to predict churn based on customer data and behavioral patterns.
 
-📌 Overview
+<h2><b>Overview</b></h2>
 
 This project focuses on predicting whether a customer will churn using historical data. The process involves data cleaning, exploratory data analysis (EDA), feature engineering, model training, and evaluation.
 Multiple machine learning models are compared to find the best performing one.
 
-⚙️ Technologies Used
+<h2><b>Technologies Used</b></h2>
 
 Programming Language: Python
 
 IDE: Visual Studio Code
 
-🧩 Python Libraries
+<h2><b>Python Libraries</b></h2>
 
 Pandas – Data manipulation and analysis
 
@@ -25,7 +25,7 @@ Matplotlib – Data plotting and graphing
 
 Scikit-learn – Machine learning model building and evaluation
 
-🧠 Machine Learning Algorithms Used
+<h2><b>Machine Learning Algorithms Used</b></h2>
 
 Logistic Regression
 
@@ -37,7 +37,7 @@ K-Nearest Neighbors (KNN)
 
 Each algorithm was trained and tested to evaluate accuracy, precision, recall, and F1 score. Model comparison helps identify which performs best for churn prediction.
 
-📊 Project Workflow
+<h2><b>Project Workflow</b></h2>
 
 Data Collection – Load dataset (CSV file)
 
@@ -51,7 +51,7 @@ Model Evaluation – Compare models based on performance metrics
 
 Result Visualization – Display insights using Seaborn and Matplotlib
 
-📈 Evaluation Metrics
+<h2><b>Evaluation Metrics</b></h2>
 
 Accuracy
 
@@ -59,17 +59,18 @@ Precision
 
 Recall
 
-F1 Score
 
 
 
-💡 Insights
+
+<h2><b>Insights</b></h2>
 
 Logistic Regression and Random Forest performed the best in terms of balanced accuracy and interpretability.
 
 Customers with low engagement, shorter tenure, and lower monthly charges were more likely to churn.
 
 
-🏁 Conclusion
+
+<h2><b>Conclusion</b></h2>
 
 This project demonstrates how machine learning can be used to predict customer churn and assist companies in taking proactive measures to retain customers.
